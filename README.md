@@ -1,4 +1,4 @@
-# Quasar App (test_klikdaily)
+# Quasar App (Orders Project)
 
 A Quasar Framework app
 
